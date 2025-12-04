@@ -12,6 +12,8 @@ Este proyecto implementa un chatbot inteligente capaz de responder preguntas sob
 
 El chatbot identifica automáticamente a qué persona corresponde la pregunta, usa el agente adecuado, consulta sus vectores y genera la respuesta.
 
+https://github.com/user-attachments/assets/bc9e78c8-88ba-44a7-b1d6-a0c0b54e4645
+
 ```
 Estructura del proyecto:
 tp3/
